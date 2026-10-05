@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bluesky78060.github.io/bluesky-homepage-site/sitemap-index.xml
